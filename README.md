@@ -15,3 +15,5 @@ an embeded system
 ####  3. Cooler speed (duty cycle) should be appeared in second row
 ####  4. Cooler system is consists of 5volt DC motor, when the range of temperature is from 35c to 50c the cooler Dc volt 
 should be from 2.5 to 5 volt
+
+### see the following video:- https://drive.google.com/file/d/1Vxm-Bqa6n7TRZNPrIRJqDO_1gxSWnPUX/view?usp=sharing
